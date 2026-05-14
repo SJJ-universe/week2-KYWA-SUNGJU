@@ -1,0 +1,30 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+backend/build/
+backend/dist/
+backend/*.spec
+backend/static/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+*.exe
+
+# TypeScript build info
+*.tsbuildinfo
+frontend/build.log
